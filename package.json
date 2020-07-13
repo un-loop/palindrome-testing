@@ -1,0 +1,14 @@
+{
+  "name": "palidrome-testing",
+  "version": "1.0.0",
+  "description": "Learning to test",
+  "main": "palidrome.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
